@@ -1,5 +1,4 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Case Study
 
 
 ## Table of Contents
@@ -8,45 +7,39 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Introduction
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free.
+A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. 
+The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a 
+mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19.
+The company wants to know:
+1. Which variables are significant in predicting the demand for shared bikes.
+2. How well those variables describe the bike demands
+We will be using Linear Regression to have the variables which are signficant for predicting the demands and how these variables describe the demand.
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+-	June, July, Aug, Sep and Oct had high demands for the bike
+-	Holiday had less demand in average, maybe because less people going out
+-	2019 had a significant demand compared to 2018
+-	Summer and Fall had more demand then Spring and Winter
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python version: 3.10.13
+Pandas version: 1.5.3
+Numpy version: 1.23.5
+Matplotlib: version 3.7.0
+Seaborn: version 0.12.2
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This Case Study is developed for Linear regression required for UpGrad - IIIT, Bangalore Programme.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@ambar-ashish] - feel free to contact me!
