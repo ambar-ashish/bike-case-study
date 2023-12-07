@@ -9,7 +9,6 @@
 
 
 ## General Information
-Introduction
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free.
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. 
 The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a 
@@ -19,6 +18,7 @@ BoomBikes aspires to understand the demand for shared bikes among the people aft
 The company wants to know:
 1. Which variables are significant in predicting the demand for shared bikes.
 2. How well those variables describe the bike demands
+
 We will be using Linear Regression to have the variables which are signficant for predicting the demands and how these variables describe the demand.
 
 
@@ -30,11 +30,11 @@ We will be using Linear Regression to have the variables which are signficant fo
 
 
 ## Technologies Used
-Python version: 3.10.13
-Pandas version: 1.5.3
-Numpy version: 1.23.5
-Matplotlib: version 3.7.0
-Seaborn: version 0.12.2
+- Python version: 3.10.13
+- Pandas version: 1.5.3
+- Numpy version: 1.23.5
+- Matplotlib: version 3.7.0
+- Seaborn: version 0.12.2
 
 
 ## Acknowledgements
