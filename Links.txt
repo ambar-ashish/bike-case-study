@@ -1,0 +1,3 @@
+Github Link - https://github.com/ambar-ashish/bike-case-study
+Python file - https://github.com/ambar-ashish/bike-case-study/blob/main/Ambar.ipynb
+Answers file - https://github.com/ambar-ashish/bike-case-study/blob/main/Answers-Linear%2BRegression%2BSubjective%2BQuestions.pdf
